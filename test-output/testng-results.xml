@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-12T12:12:52 IST" name="Default suite" finished-at="2021-11-12T12:12:52 IST" duration-ms="124">
+    <groups>
+    </groups>
+    <test started-at="2021-11-12T12:12:52 IST" name="Default test" finished-at="2021-11-12T12:12:52 IST" duration-ms="124">
+      <class name="Golden.Mobile">
+        <test-method signature="iOS()[pri:0, instance:Golden.Mobile@72a7c7e0]" started-at="2021-11-12T12:12:52 IST" name="iOS" finished-at="2021-11-12T12:12:52 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOS -->
+      </class> <!-- Golden.Mobile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
